@@ -1,0 +1,1 @@
+Mi version del programa Mohila.cpp no solo guarda el maximo de valores basado en el peso, si no tambien en la cantidad de beneficio, tratando de guardar el maximo posible de elementos con el mayor beneficio posible.
